@@ -10,7 +10,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 <p align="center">
 <a href="https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
-USE 100% CPU LEAST TO RUN THE BOT
+LOW CPU WONT WORK
 
 ------
 
